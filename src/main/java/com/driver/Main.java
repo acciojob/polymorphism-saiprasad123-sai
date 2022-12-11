@@ -19,7 +19,7 @@ public static class Product{
         Product p=new Product();
         System.out.println(p.product(33,33));
         System.out.println(p.product(37,37,37));
-        System.out.println(p.product(1000,100));
+        System.out.println(p.product(1000d,100d));
 
 
 
